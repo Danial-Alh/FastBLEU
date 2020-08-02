@@ -1,4 +1,10 @@
-# FastBLEU Package
+# CAUTION
+
+This package is renamed to [**"fast-bleu"**](https://pypi.org/project/fast-bleu/).
+
+Please check the [**new package**](https://pypi.org/project/fast-bleu/) to get updated versions.
+
+# FastBLEU Package (DEPRECATED)
 
 This is a fast multithreaded C++ implementation of NLTK BLEU; computing BLEU and SelfBLEU score for a fixed reference set.
 It can return (Self)BLEU for different (max) n-grams simultaneously and efficiently (e.g. BLEU-2, BLEU-3 and etc.).
